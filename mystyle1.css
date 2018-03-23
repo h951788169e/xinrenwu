@@ -1,49 +1,49 @@
 body { font-family: Verdana, sans-serif; } 
 box1, box2, box3, box1,box4,box5, box6, box7,box8,box9 { font-family: Verdana, sans-serif; }
 
-.box1{ width:30%; height:30%;background:#FFC107; 
-  float:left;margin :1%;padding-top:30%;
+.box1{ width:31%; height:31%;background:#FFC107;
+  float:left;margin :1.16%;padding-top:31%;
 border-radius:25px;
 -moz-border-radius:25px;
   }
-.box2{ width:30%; height:30%;background:#FFC107; 
-  float:left;margin :1%;padding-top:30%;
-border-radius:25px;
--moz-border-radius:25px;
+.box2{  width:31%; height:31%;background:#FFC107;
+  float:left;margin :1.16%;padding-top:31%;
+  border-radius:25px;
+  -moz-border-radius:25px;
   }
-.box3{ width:30%; height:30%;background:#FFC107; 
-  float:left;margin :1%;padding-top:30%;
-border-radius:25px;
--moz-border-radius:25px;
+.box3{ width:31%; height:31%;background:#FFC107;
+  float:left;margin :1.16%;padding-top:31%;
+  border-radius:25px;
+  -moz-border-radius:25px;
 
   }
-.box4{ width:30%; height:30%;background:#FFC107; 
-  float:left;margin :1%;padding-top:30%;
-border-radius:25px;
--moz-border-radius:25px;
+.box4{  width:31%; height:31%;background:#FFC107;
+  float:left;margin :1.16%;padding-top:31%;
+  border-radius:25px;
+  -moz-border-radius:25px;
   }
-.box5{ width:30%; height:30%;background:#FFC107; 
-  float:left;margin :1%;padding-top:30%;
-border-radius:25px;
--moz-border-radius:25px;
+.box5{ width:31%; height:31%;background:#FFC107;
+  float:left;margin :1.16%;padding-top:31%;
+  border-radius:25px;
+  -moz-border-radius:25px;
   }
-.box6{ width:30%; height:30%;background:#FFC107; 
-  float:left;margin :1%;padding-top:30%;
-border-radius:25px;
--moz-border-radius:25px;
+.box6{  width:31%; height:31%;background:#FFC107;
+  float:left;margin :1.16%;padding-top:31%;
+  border-radius:25px;
+  -moz-border-radius:25px;
   }
-.box7{ width:30%; height:30%;background:#FFC107; 
-  float:left;margin :1%;padding-top:30%;
-border-radius:25px;
--moz-border-radius:25px;
+.box7{  width:31%; height:31%;background:#FFC107;
+  float:left;margin :1.16%;padding-top:31%;
+  border-radius:25px;
+  -moz-border-radius:25px;
   }
-.box8{ width:30%; height:30%;background:#FFC107; 
-  float:left;margin :1%;padding-top:30%;
-border-radius:25px;
--moz-border-radius:25px;
+.box8{  width:31%; height:31%;background:#FFC107;
+  float:left;margin :1.16%;padding-top:31%;
+  border-radius:25px;
+  -moz-border-radius:25px;
   }
-.box9{ width:30%; height:30%;background:#FFC107; 
-  float:left;margin :1%;padding-top:30%;
-border-radius:25px;
--moz-border-radius:25px;
+.box9{ width:31%; height:31%;background:#FFC107;
+  float:left;margin :1.16%;padding-top:31%;
+  border-radius:25px;
+  -moz-border-radius:25px;
   }
